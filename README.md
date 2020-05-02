@@ -6,4 +6,5 @@ Step 1 download you can get the extension [HERE](https://chrome.google.com/webst
 
 Step 2 click on the extension and click *Edit Redirects*  and then click *create new redirect*  then you should be able to make one using the simple and self explainitory design.
 
-Step 3 Importing and exporting, you can export your redirects using that *export* button
+Step 3 Importing and exporting, you can export your redirects using that *export* button, and you can use people other redirects using the
+*import*  button and then choosing the JSON file!
