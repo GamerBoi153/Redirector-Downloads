@@ -1,5 +1,5 @@
-# Redirector-Rule
-this is for sharing json files that redirect a website
+# Redirector-Download
+this is for sharing and downloading json files that redirect a website
 
 ## [Veiw Redirects](https://github.com/GamerBoi153/Redirector-Rules/tree/master/INDEX)
 
