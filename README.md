@@ -3,6 +3,8 @@ this is for sharing json files that redirect a website
 
 ## [Veiw Redirects](https://github.com/GamerBoi153/Redirector-Rules/tree/master/INDEX)
 
+## [How to make redirects](https://github.com/GamerBoi153/Redirector-Rules/blob/master/howtomakeredirect.md)
+
 ## Setup Guide
 Step 1 download you can get the extension [HERE](https://chrome.google.com/webstore/detail/redirector/ocgpenflpmgnfapjedencafcfakcekcd?hl=en)
 
