@@ -15,27 +15,3 @@ to get rid of them in the json file. If you think you got rid of the ret make su
  (execpt the URLS obviously and disabled and grouped, you know just make sure the lines *37*  through *40*  are the same)
 DONT EVEN CHANGE THE NAME OR ANYTHING OZR ELSE IT WILL NOT WORK
 
-\{
-\"createdBy": "Redirector v3.5.3",
- \"createdAt": "2020-05-02T23:48:21.692Z",
- \"redirects": [
-  \{
-   \"description": "",
-   \"exampleUrl": "https://www.roblox.com",
-    \"exampleResult": "https://www.roblox.com/login",
-     \"error": null,
-      \"includePattern": "https://www.roblox.com",
-       \"excludePattern": "",
-        \"patternDesc": "https://www.roblox.com → https://www.roblox.com/login",
-        \"redirectUrl": "https://www.roblox.com/login",
-         \"patternType": "W",
-           \"processMatches": "noProcessing",
-          \"disabled": false,
-          \"grouped": false,
-           \"appliesTo": [
-            \"main_frame"
-            \]
-        \}
-    \]
-\}
-
