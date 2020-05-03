@@ -14,8 +14,8 @@ THEN you have to export it and open the json file to make sure it has ONLY the r
 to get rid of them in the json file. If you think you got rid of the ret make sure it looks almost EXACTLY like this
  (execpt the URLS obviously and disabled and grouped, you know just make sure the lines *37*  through *40*  are the same)
 DONT EVEN CHANGE THE NAME OR ANYTHING OZR ELSE IT WILL NOT WORK
-\
-{
+
+\{
     "createdBy": "Redirector v3.5.3",
     "createdAt": "2020-05-02T23:48:21.692Z",
     "redirects": [
@@ -37,5 +37,5 @@ DONT EVEN CHANGE THE NAME OR ANYTHING OZR ELSE IT WILL NOT WORK
             ]
         }
     ]
-}
-\
+\}
+
